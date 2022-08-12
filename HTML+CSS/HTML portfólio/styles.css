@@ -1,0 +1,27 @@
+h1{
+    color:rgb(61, 243, 243)
+}
+body{
+    background: linear-gradient(to bottom left, #b149ff 35%, #00ffff 100%);;
+}
+li{
+    font-weight: rgb(234, 223, 245);
+}
+code{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+img{
+    width :300px;
+    border: 2px;
+    border-color:rgb(130, 223, 38);
+    border-style: dotted;
+    border-radius: 150px;
+
+}
+tipo1{
+    width :300px;
+    border: 2px;
+    border-color:rgb(130, 223, 38);
+    border-style: dotted;
+    border-radius: 50px;
+}

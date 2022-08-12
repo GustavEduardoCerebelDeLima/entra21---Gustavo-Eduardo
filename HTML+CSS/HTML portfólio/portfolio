@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Gustavo</title>
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+    <h1><p>Olá, meu nome é Gustavo Eduardo Cerebel de Lima</p><img src="eukkj.jpeg"><p><img class="ti" src="Novo Projeto.png"</h1></p>
+    Tenho 16 anos e faço curso da linguagem de programação python pelo Entra21 no SENAC no período da tarde prescencialmente.
+    <br>Estudo no CEDUP HERMANN HERING no período da manhã, segundo ano do ensino médio e também faço curso técnico em informática.<br>
+       Até o mometo tenho conhecimento intermediario das linguagens de programação: Java, Python, HTML e CSS.</p>
+    
+    <h1><p>Redes sociais e códigos já feitos</p></h1>
+
+    <p>E-mail: lima.cerebel@gmail.com</p>
+    <a href="https://www.linkedin.com/in/gustavo-eduardo-b78562245/"><img class="t" src="likadin.png"></a>  <a href="https://www.facebook.com/gu.eduardo.7"><img class="t" src="face.png"></a>  <a href="https://www.instagram.com/gustavo_eduard0o/"><img class="t" src="insta.png"></img></a> <a href="https://github.com/GustavEduardoCerebelDeLima/entra21---Gustavo-Eduardo"><img class="t" src="github.png"></a>
+       
+
+</body>
+</html>
